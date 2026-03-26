@@ -1,4 +1,4 @@
-# ©️ LISA-KOREA | @LISA_FAN_LK | NT_BOT_CHANNEL | @NT_BOTS_SUPPORT | LISA-KOREA/UPLOADER-BOT-V4
+mo me# ©️ LISA-KOREA | @LISA_FAN_LK | NT_BOT_CHANNEL | @NT_BOTS_SUPPORT | LISA-KOREA/UPLOADER-BOT-V4
 # [⚠️ Do not change this repo link ⚠️] :- https://github.com/LISA-KOREA/UPLOADER-BOT-V4
 
 import os
@@ -26,9 +26,9 @@ if __name__ == "__main__":
     plugins = dict(root="plugins")
     Client = Client(
         "@UploaderXNTBot",
-        bot_token=Config.BOT_TOKEN,
-        api_id=Config.API_ID,
-        api_hash=Config.API_HASH,
+        bot_token=Config.8684849268:AAFjz5GIkISIld6IVLchaI6ADtyd8XiaGIU,
+        api_id=Config.30296254,
+        api_hash=Config.c2b5306f4ccd2d795405a026c10b4c62,
         sleep_threshold=300,
         plugins=plugins
     )
